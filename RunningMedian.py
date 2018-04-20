@@ -236,9 +236,6 @@ def addNumberToHeap(lower, upper, number):
 
     
 
-    
-
-
 if __name__ == '__main__':
     lower = HalfOfList(True)
     upper = HalfOfList(False)
