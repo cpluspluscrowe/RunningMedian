@@ -1,7 +1,5 @@
 from sortedcontainers import SortedList
 import heapq
-#heapq.heapify(listForTree)
-#heapq._heapify_max(listForTree)   
 
 class HalfOfList():
     def __init__(self, isMax):
